@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">HSolve the problem first, then write some code.</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">My name is Branislav and I'm a Frontend developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.</h4>
+<h4 align="left">My name is Branislav and I'm a Software Engineer who loves to work with Web technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.</h4>
 
 ###
 
@@ -39,10 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
